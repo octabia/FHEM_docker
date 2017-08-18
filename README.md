@@ -27,3 +27,4 @@ Defaults
 Updating FHEM
 
 Since all data in the container is static, you have to delete the container and recreate it to update fhem.
+
