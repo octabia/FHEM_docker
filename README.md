@@ -13,10 +13,10 @@ Requirements
 
 Install
 
-git clone https://github.com/octabia/FHEM_docker.git fhem-docker
-cd fhem-docker
-cp ./fhem/data/fhem.cfg.example ./fhem/data/fhem.cfg
-docker-compose up
+    git clone https://github.com/octabia/FHEM_docker.git fhem-docker
+    cd fhem-docker
+    cp ./fhem/data/fhem.cfg.example ./fhem/data/fhem.cfg
+    docker-compose up
 
 Defaults
 
